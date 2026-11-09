@@ -20,6 +20,12 @@ A Spring Boot and Spring AI assistant that runs real budget-execution functions 
 **[orcamento-api](https://github.com/KruegerEngenheiro/orcamento-api)**
 Singleton, Strategy and Facade design patterns applied to a real budget-execution rule.
 
+**[execucao-diaria](https://github.com/KruegerEngenheiro/execucao-diaria)** — [live app](https://execucao-diaria-seven.vercel.app)
+An offline-first personal execution PWA: a routine engine, a daily score and a date-based career plan. React, TypeScript, Dexie. Built solo and used daily.
+
+**[meu-ingles-srs](https://github.com/KruegerEngenheiro/meu-ingles-srs)** — [live app](https://meu-ingles-srs.vercel.app)
+An offline-first spaced-repetition vocabulary app with an SM-2 scheduler. React, TypeScript, Dexie. Built solo and used daily.
+
 ### Contact
 
 [LinkedIn](https://linkedin.com/in/carloseduardokrueger)
