@@ -14,6 +14,9 @@ Open to AI Engineer and Forward Deployed Engineer roles, remote or with relocati
 
 ### Featured projects
 
+**[ai-operations-assistant](https://github.com/KruegerEngenheiro/ai-operations-assistant)**
+An AI operations kit applied to a real commercial operation: reusable shortcuts plus one delegated task run with a plan-first flow, hard autonomy limits, and human validation. The AI prepares, I decide what gets acted on.
+
 **[ai-budget-assistant](https://github.com/KruegerEngenheiro/ai-budget-assistant)**
 A Spring Boot and Spring AI assistant that runs real budget-execution functions from a natural-language command through LLM tool calling, with a validation guardrail and an audit trail.
 
