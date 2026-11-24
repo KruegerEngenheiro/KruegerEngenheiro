@@ -4,7 +4,7 @@
 
 I lead AI and automation projects for logistics and operations. I have a Software Engineering degree, coordinated a 10-developer engineering team at a foodtech platform, and spent 7 years leading logistics teams of 20 to 100 people in an Army logistics battalion.
 
-On Operation Acolhida, a humanitarian mission run with UN agencies, I built the AI reporting system in a two-person team: AI agents and a Python dashboard that pull budget data straight from the source instead of 42 scattered spreadsheets. Weekly reports that 20 officers prepared by hand now take about a minute, and 100 people use it every week.
+On Operation Acolhida, a humanitarian mission run with UN agencies, I built the AI reporting system in a two-person team: I mapped how budget data was scattered across 42 spreadsheets and built the AI agents with Claude Code, and a Navy officer built the dashboard and validated the answers. Weekly reports that 20 officers prepared by hand now take about a minute, and 100 people use it every week.
 
 **Focus:** AI and automation for operations, technology project leadership, LLM applications with guardrails.
 
